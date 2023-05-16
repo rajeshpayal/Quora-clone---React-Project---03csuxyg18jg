@@ -2,6 +2,7 @@ import firebase from "firebase";
 const firebaseConfig = {
   apiKey: "AIzaSyDGUCu1-K7V7trPDvU7eKMdLF6KePgxvX4",
   authDomain: "newquoraclone.firebaseapp.com",
+  databaseURL: "https://newquoraclone-default-rtdb.firebaseio.com",
   projectId: "newquoraclone",
   storageBucket: "newquoraclone.appspot.com",
   messagingSenderId: "139837518391",
