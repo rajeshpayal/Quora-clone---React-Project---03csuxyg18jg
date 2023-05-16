@@ -1,11 +1,11 @@
 import firebase from "firebase";
 const firebaseConfig = {
-  apiKey: "AIzaSyDycChWNDoqMtKHHNwxu8OZ8yr5jid-Qnk",
-  authDomain: "quroaclone.firebaseapp.com",
-  projectId: "quroaclone",
-  storageBucket: "quroaclone.appspot.com",
-  messagingSenderId: "727515719094",
-  appId: "1:727515719094:web:c874d7bcaee0aa316d4d17",
+  apiKey: "AIzaSyDGUCu1-K7V7trPDvU7eKMdLF6KePgxvX4",
+  authDomain: "newquoraclone.firebaseapp.com",
+  projectId: "newquoraclone",
+  storageBucket: "newquoraclone.appspot.com",
+  messagingSenderId: "139837518391",
+  appId: "1:139837518391:web:1ad1321250be3516bb85b2",
   measurementId: "G-RS6THMYKEZ",
 };
 
